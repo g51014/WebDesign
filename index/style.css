@@ -14,6 +14,7 @@ article
   background-image: url("index_picture/background.png");
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
   height: 784px;
   width: auto;
 }
@@ -32,9 +33,10 @@ footer
 
 .title img
 {
+  margin-left: 40%;
   height: 76px;
-  margin-left: 39%;
   margin-top: 20px;
+
 }
 
 .main
@@ -42,6 +44,7 @@ footer
   margin-top: 20px;
   margin-left: 138px;
   margin-right: 138px;
+  min-width: 708px;
   height: 630px;
   border-color: white;
   border-width: 2.25px;
@@ -62,5 +65,5 @@ footer
 .botton
 {
   display: inline-block;
-  
+
 }
