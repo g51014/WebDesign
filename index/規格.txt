@@ -1,5 +1,5 @@
 ALL:1188X860
-Header:1188X76
+
 Footer:1188X76
 
-main picture:1188*708
+main picture:1188*784

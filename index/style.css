@@ -1,0 +1,66 @@
+body
+{
+  margin:0px;
+}
+
+header
+{
+  height: 76px;
+  width: auto;
+}
+
+article
+{
+  background-image: url("index_picture/background.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 784px;
+  width: auto;
+}
+
+footer
+{
+  background-color: rgb(24, 23, 23);
+  height: 76px;
+  width: auto;
+}
+
+.title
+{
+  height: 76px;
+}
+
+.title img
+{
+  height: 76px;
+  margin-left: 39%;
+  margin-top: 20px;
+}
+
+.main
+{
+  margin-top: 20px;
+  margin-left: 138px;
+  margin-right: 138px;
+  height: 630px;
+  border-color: white;
+  border-width: 2.25px;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.name
+{
+  font-family: "Yu Gothic Light";
+  font-weight: bold;
+  font-size: 44px;
+  margin-top: 120px;
+  text-align: center;
+  color:white;
+}
+
+.botton
+{
+  display: inline-block;
+  
+}
